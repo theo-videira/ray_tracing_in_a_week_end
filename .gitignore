@@ -30,3 +30,9 @@
 *.exe
 *.out
 *.app
+
+objs/
+
+image.ppm
+
+ray_tracing
