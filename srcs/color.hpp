@@ -2,7 +2,7 @@
 #define COLOR_HPP
 
 #include "vec3.hpp"
-#include <iostream>
+#include "rtweekend.hpp"
 
 using color = vec3;
 

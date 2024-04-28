@@ -8,7 +8,7 @@ SRCS_FILES		= main.cpp
 SRCS			= $(addprefix $(SRCS_DIR)/, $(SRCS_FILES))
 
 INCS_DIR		= srcs 
-INCS_FILES		= color.hpp vec3.hpp
+INCS_FILES		= color.hpp vec3.hpp ray.hpp hittable.hpp sphere.hpp hittable_list.hpp rtweekend.hpp
 INCS			= $(addprefix $(INCS_DIR)/, $(INCSS_FILES))
 
 
